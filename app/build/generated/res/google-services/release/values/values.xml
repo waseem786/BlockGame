@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">425315455359-gvo6ed9hahagfu39pqtje0l05or3ei9v.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">425315455359</string>
+    <string name="google_api_key" translatable="false">AIzaSyDMe0DLZWSZ9CLT2fXxUaNpntjVr6Dc3iE</string>
+    <string name="google_app_id" translatable="false">1:425315455359:android:88b3b098e316db5c694a4a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMe0DLZWSZ9CLT2fXxUaNpntjVr6Dc3iE</string>
+    <string name="google_storage_bucket" translatable="false">blockgame-4c578.appspot.com</string>
+    <string name="project_id" translatable="false">blockgame-4c578</string>
+</resources>

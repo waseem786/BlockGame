@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d959f1</color>
+    <color name="colorPrimaryLight">#1Ad959f1</color>
+    <color name="colorPrimaryTransparent">#9Fd959f1</color>
+    <color name="colorPrimaryDark">#d959f1</color>
+    <color name="colorAccent">#14DFDF</color>
+    <color name="colorGrey">#9DACAC</color>
+    <color name="lFigure">#b4677efe</color>
+
+    <color name="jFigure">#b5146b76</color>
+    <color name="longFigure">#b45092ff</color>
+    <color name="sFigure">#b40c83e1</color>
+    <color name="zFigure">#b44fc3f7</color>
+    <color name="tFigure">#b442d2f5</color>
+    <color name="squareFigure">#b49a4dff</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gradient">#5a92f5</color>
+
+    <color name="transparent">#00000000</color>
+</resources>
