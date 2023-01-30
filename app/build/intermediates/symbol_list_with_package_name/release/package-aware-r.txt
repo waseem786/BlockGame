@@ -1294,6 +1294,9 @@ layout settings_privacy_policy
 layout settings_rate
 layout speed_picker
 layout support_simple_spinner_dropdown_item
+mipmap block_logo
+mipmap block_logo_foreground
+mipmap block_logo_round
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw firebase_common_keep

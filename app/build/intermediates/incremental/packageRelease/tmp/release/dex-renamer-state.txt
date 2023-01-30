@@ -1,4 +1,4 @@
-#Tue Jan 10 19:59:24 IST 2023
-base.0=D\:\\Out-source apps\\BlockGame2023\\BlockGame2023\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+#Mon Jan 30 15:38:56 IST 2023
+base.0=D\:\\Out-source apps\\BlockGame2023\\BlockGame\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

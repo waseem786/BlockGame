@@ -88,7 +88,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7861c1c144ca9d318e2766769518e46/jetified-number-picker-2.4.8-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/339e9dfc503d774c3d929bd7f0a02a8b/jetified-error_prone_annotations-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcdc406881cb8a15e8e4bf836a861ecf/jetified-firebase-annotations-16.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Software Installation/Android SDKs/platforms/android-29/android.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../../Software Installation/Android SDKs/platforms/android-32/android.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Software Installation/Android SDKs/build-tools/29.0.2/core-lambda-stubs.jar</arg>
               </args>
             </stringArg>
@@ -158,7 +158,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
     </content>
     <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
-    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.3.72" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />

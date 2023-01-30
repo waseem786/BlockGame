@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Out-source apps\\BlockGame2023\\BlockGame2023\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+            "outputFile": "D:\\Out-source apps\\BlockGame2023\\BlockGame\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\wasee\\.gradle\\caches\\transforms-2\\files-2.1\\8bfe306a8f4ba43af0cc3ead14ddd4bd\\jetified-play-services-basement-18.1.0\\res\\values-es-rUS\\values.xml",

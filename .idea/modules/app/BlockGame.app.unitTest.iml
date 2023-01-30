@@ -14,7 +14,6 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
-                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4cd472c603928eb4c8f2726c5577fb62/jetified-kotlin-android-extensions-runtime-1.3.72.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3888afe1985d81d08e48dbfdc2672cfe/jetified-core-ktx-1.2.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5210e4f1621b37dadb491db8c23ea01a/jetified-kotlin-stdlib-jdk7-1.3.72.jar</arg>
@@ -79,9 +78,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a87cbbbbd82d5151adb8c24567366f5/jetified-byte-buddy-1.9.7.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9401c6ba5f7f8a4769687bf4f48355c0/jetified-byte-buddy-agent-1.9.7.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94a6cf80be0279f336a85f3ed6cf46c0/jetified-objenesis-2.6.jar</arg>
-                <arg>$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes</arg>
-                <arg>$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug</arg>
-                <arg>$MODULE_DIR$/../../../../../../Software Installation/Android SDKs/platforms/android-29/android.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../../Software Installation/Android SDKs/platforms/android-32/android.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Software Installation/Android SDKs/build-tools/29.0.2/core-lambda-stubs.jar</arg>
               </args>
             </stringArg>
@@ -149,7 +146,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../app/src/test/java" isTestSource="true" />
     </content>
     <content url="file://$MODULE_DIR$/../../../app/src/testDebug" />
-    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="BlockGame.app.main" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.72" level="project" />

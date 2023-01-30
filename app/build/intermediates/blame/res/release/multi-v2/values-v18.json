@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Out-source apps\\BlockGame2023\\BlockGame2023\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "D:\\Out-source apps\\BlockGame2023\\BlockGame\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
                     "source": "C:\\Users\\wasee\\.gradle\\caches\\transforms-2\\files-2.1\\b89b999f1b7f136d83abd86ca57df9f2\\appcompat-1.2.0-beta01\\res\\values-v18\\values-v18.xml",

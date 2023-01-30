@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Out-source apps\\BlockGame2023\\BlockGame2023\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w320dp-v13\\values-w320dp-v13.xml",
+            "outputFile": "D:\\Out-source apps\\BlockGame2023\\BlockGame\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w320dp-v13\\values-w320dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\Out-source apps\\BlockGame2023\\BlockGame2023\\app\\src\\main\\res\\values-w320dp\\dimens.xml",
+                    "source": "D:\\Out-source apps\\BlockGame2023\\BlockGame\\app\\src\\main\\res\\values-w320dp\\dimens.xml",
                     "from": {
                         "startLines": "13,10,12,2,4,5,3,8,6,7,11,9,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

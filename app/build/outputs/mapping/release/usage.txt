@@ -7298,6 +7298,7 @@ androidx.appcompat.view.menu.BaseMenuPresenter:
 androidx.annotation.ColorLong
 androidx.appcompat.widget.FitWindowsFrameLayout:
     public void <init>(android.content.Context)
+kotlin.Result
 kotlin.KotlinVersion:
     public void <init>(int,int)
     public final boolean isAtLeast(int,int)
@@ -7306,7 +7307,6 @@ kotlin.KotlinVersion:
     public final int getMinor()
     public final int getPatch()
     public static final int MAX_COMPONENT_VALUE
-kotlin.Result
 androidx.appcompat.widget.SwitchCompat
 androidx.appcompat.view.StandaloneActionMode:
     public void onCloseMenu(androidx.appcompat.view.menu.MenuBuilder,boolean)

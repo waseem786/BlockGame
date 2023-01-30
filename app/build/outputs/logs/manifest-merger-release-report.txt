@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\cec30f7d8b74c3d1f9d3cbd89529771f\constraintlayout-2.0.0-beta4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.shawnlin:number-picker:2.4.8] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\a4f6e8443e734b175239777cef0f01e5\jetified-number-picker-2.4.8\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0-beta01] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\b89b999f1b7f136d83abd86ca57df9f2\appcompat-1.2.0-beta01\AndroidManifest.xml:17:1-24:12
@@ -49,27 +49,27 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\wasee\.gradle\caches\transform
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\9e50144a48d1b040d466ce2be67b0506\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\3c577dabac34642f150961e908f37cf4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\559c1dc39b4ebd0ad75d3d4442eaff50\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:4:11-41
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:4:11-41
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:3:11-57
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:1-45:12
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:6:5-66
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:6:5-66
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\fcdc097fabd822f005432888247faf47\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\fcdc097fabd822f005432888247faf47\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\bea056e0a6e872a6d58b596248060d39\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
@@ -81,9 +81,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\582b553297f2dc008458010cf488664a\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\582b553297f2dc008458010cf488664a\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:8:5-43:19
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:8:5-44:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\cec30f7d8b74c3d1f9d3cbd89529771f\constraintlayout-2.0.0-beta4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\cec30f7d8b74c3d1f9d3cbd89529771f\constraintlayout-2.0.0-beta4\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\23601ea69dc674dce9f0aa5d4a77f967\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
@@ -119,67 +119,69 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wa
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0-beta01] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\ed6ead92df617214311c280659e5b13f\core-1.3.0-beta01\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:11:9-41
 	tools:ignore
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:17:9-48
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:17:9-48
 	android:roundIcon
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:14:9-53
 	android:icon
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:12:9-42
 	android:allowBackup
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:9:9-37
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:9:9-37
 activity#com.waseem.brickgame.ui.settings.PrivacyPolicyActivity
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:18:9-21:20
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:18:9-21:20
 	android:screenOrientation
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:20:13-49
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:20:13-49
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:19:13-62
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:19:13-62
 activity#com.waseem.brickgame.ui.settings.SettingsActivity
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:22:9-25:20
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:22:9-25:20
 	android:screenOrientation
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:24:13-49
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:23:13-57
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:23:13-57
 activity#com.waseem.brickgame.ui.start.StartActivity
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:26:9-34:20
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:26:9-35:20
 	android:screenOrientation
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:28:13-49
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:29:13-49
+	android:exported
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:27:13-51
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:28:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:30:17-68
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:31:17-68
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:32:17-76
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:33:17-76
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.waseem.brickgame.ui.main.MainActivity
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:35:9-38:20
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:36:9-39:20
 	android:screenOrientation
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:37:13-49
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:36:13-49
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:37:13-49
 activity#com.waseem.brickgame.ui.score.ScoreActivity
-ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:39:9-42:20
+ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:40:9-43:20
 	android:screenOrientation
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:41:13-49
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:42:13-49
 	android:name
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml:40:13-51
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml:41:13-51
 uses-sdk
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\cec30f7d8b74c3d1f9d3cbd89529771f\constraintlayout-2.0.0-beta4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\cec30f7d8b74c3d1f9d3cbd89529771f\constraintlayout-2.0.0-beta4\AndroidManifest.xml:5:5-7:41
 MERGED from [com.shawnlin:number-picker:2.4.8] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\a4f6e8443e734b175239777cef0f01e5\jetified-number-picker-2.4.8\AndroidManifest.xml:7:5-9:41
@@ -270,16 +272,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\wasee\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\3c577dabac34642f150961e908f37cf4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\559c1dc39b4ebd0ad75d3d4442eaff50\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\559c1dc39b4ebd0ad75d3d4442eaff50\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-		ADDED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+		ADDED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Out-source apps\BlockGame2023\BlockGame\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\fcdc097fabd822f005432888247faf47\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\wasee\.gradle\caches\transforms-2\files-2.1\bea056e0a6e872a6d58b596248060d39\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
