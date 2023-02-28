@@ -12,7 +12,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.Toast;
 
-import com.waseem.brickgame.BuildConfig;
+import com.google.firebase.BuildConfig;
 import com.waseem.brickgame.R;
 import com.waseem.brickgame.Values;
 import com.waseem.brickgame.data.SharedPreferencesManager;

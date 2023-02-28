@@ -1,19 +1,18 @@
 package com.waseem.brickgame.ui.main;
 
 
+import static com.waseem.brickgame.Values.EXTRA_ROWS;
+
 import android.graphics.Path;
 import android.util.Log;
 
-import com.waseem.brickgame.BuildConfig;
+import com.google.firebase.BuildConfig;
 import com.waseem.brickgame.enums.FigureState;
 import com.waseem.brickgame.figures.Figure;
-import com.waseem.brickgame.figures.factory.FigureCreator;
 import com.waseem.brickgame.ui.main.listeners.OnNetChangedListener;
 import com.waseem.brickgame.utils.Utils;
 
 import java.util.ArrayList;
-
-import static com.waseem.brickgame.Values.EXTRA_ROWS;
 
 public class NetManager {
 
